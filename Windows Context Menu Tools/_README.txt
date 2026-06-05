@@ -1,4 +1,5 @@
 This folder contains scripts on how to remove some clutter from the right-click menus in Windows file explorer, and include two scripts using ffmpeg to trim and compress .mp4 .mkv and .mov file formats
+NOTE: the compression uses NVIDIA NVENC hardware encoding and therefore requires a supported NVIDIA GPU. Trim should work regardless since it does not re-encode.
 
 
 Instructions:
