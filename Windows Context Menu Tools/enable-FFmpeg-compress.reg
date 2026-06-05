@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mp4\shell\FFmpeg Compress]
+@="FFmpeg Compress"
+
+[HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mp4\shell\FFmpeg Compress\command]
+@="\"C:\\Tools\\FFmpegCompress.bat\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mkv\shell\FFmpeg Compress]
+@="FFmpeg Compress"
+
+[HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mkv\shell\FFmpeg Compress\command]
+@="\"C:\\Tools\\FFmpegCompress.bat\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mov\shell\FFmpeg Compress]
+@="FFmpeg Compress"
+
+[HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mov\shell\FFmpeg Compress\command]
+@="\"C:\\Tools\\FFmpegCompress.bat\" \"%1\""

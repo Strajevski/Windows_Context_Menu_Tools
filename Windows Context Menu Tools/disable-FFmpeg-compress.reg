@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mp4\shell\FFmpeg Compress]
+[-HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mkv\shell\FFmpeg Compress]
+[-HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\.mov\shell\FFmpeg Compress]
