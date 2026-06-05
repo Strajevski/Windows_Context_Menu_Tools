@@ -12,3 +12,5 @@ Requires:
 - FFmpeg added to PATH
 
 See `_README.txt` for full installation instructions including FFmpeg PATH configuration.
+
+![Context Menu](right_click.png)
