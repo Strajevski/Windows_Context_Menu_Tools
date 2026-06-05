@@ -7,6 +7,7 @@ Features:
 - Remove "Edit with Clipchamp"
 - FFmpeg Trim
 - FFmpeg Compress (HEVC / AV1)
+
 Requires:
 - FFmpeg installed
 - FFmpeg added to PATH
