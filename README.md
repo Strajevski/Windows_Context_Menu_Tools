@@ -11,7 +11,7 @@ Features:
 Requires:
 - FFmpeg installed
 - FFmpeg added to PATH
-- Nvidia GPU is required for compression. Not required for trim.
+- NVIDIA GPU is required for compression. Not required for trim.
 
 See `_README.txt` for full installation instructions including FFmpeg PATH configuration.
 
